@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HoloToMaterial</string>
+
+    <string name="hello_world">Migration vers Material Design\nConversion de ActionBar en Toolbar</string>
+
+    <string name="action_new">Nouveau</string>
+    <string name="action_edit">Modifier</string>
+    <string name="action_delete">Supprimer</string>
+
+    <string name="toast_new">Nouveau</string>
+    <string name="toast_edit">Modifier</string>
+    <string name="toast_delete">Supprimer</string>
+</resources>
