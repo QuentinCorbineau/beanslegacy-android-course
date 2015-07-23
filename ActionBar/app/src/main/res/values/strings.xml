@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+
+    <string name="hello_world">My first Action Bar</string>
+
+    <string name="action_new">New</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="toast_new">New</string>
+    <string name="toast_edit">Edit</string>
+    <string name="toast_delete">Delete</string>
+</resources>
